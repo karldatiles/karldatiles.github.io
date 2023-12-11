@@ -2,6 +2,7 @@
 Karl Vincent D. Lirio
 
 # Enhypen
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Enhypen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjYMOXorhgnGcPVYsAyZQ2oyAMUpOFotAJViWnWQT0-YVm3Mn_OHvcLgvwNctfM0BeVA&usqp=CAU) 
 
@@ -18,6 +19,7 @@ Karl Vincent D. Lirio
 
 
 # Tomorrow X Together
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![TXT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2NTCU1QbdokcR5IvCpi7q8hcICE7vqHdAf_PyFEz9-eiiFf_79Uha54Yv5n5ibsuQ4Ug&usqp=CAU)
 
